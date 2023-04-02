@@ -1,0 +1,32 @@
+[
+    {
+        "productId" : "1",
+        "value": 450,
+        "quantity": 4
+    },
+    {
+        "productId" : "2",
+        "value": 500,
+        "quantity": 6
+    },
+    {
+        "productId" : "3",
+        "value": 550,
+        "quantity": 8
+    },
+    {
+        "productId" : "4",
+        "value": 450,
+        "quantity": 9
+    },
+    {
+        "productId" : "5",
+        "value": 500,
+        "quantity": 2
+    },
+    {
+        "productId" : "6",
+        "value": 550,
+        "quantity": 4
+    }
+]
